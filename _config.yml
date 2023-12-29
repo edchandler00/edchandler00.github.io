@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edward Chandler Personal Site"
+title                    : "Edward Chandler"
 title_separator          : "-"
 name                     : &name "Edward Chandler"
 description              : &description "The personal site of Edward Chandler"
