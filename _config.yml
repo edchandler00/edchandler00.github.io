@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edward Chandler"
+title                    : "Edward P. Chandler"
 title_separator          : "-"
-name                     : &name "Edward Chandler"
-description              : &description "The personal site of Edward Chandler"
+name                     : &name "Edward P. Chandler"
+description              : &description "The personal site of Edward P. Chandler"
 url                      : https://edchandler00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edchandler00/edchandler00.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Edward Chandler"
+  name             : "Edward P. Chandler"
   avatar           : "profile.png"
   bio              : "CSE PhD Student at Washington University in St. Louis"
   location         : "St. Louis, MO"
