@@ -14,6 +14,7 @@ profile:
   #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -32,7 +33,7 @@ The first 2.5 years of my PhD we spent in the CSE department of [WashU](https://
 I spent the summer of 2025 at [CCS3 (now CAI)](https://www.lanl.gov/engage/organizations/aldsct/computing-and-artificial-intelligence) at Los Alamos National Laboratory and the 2024 spring semester with the [Complex Media Group](https://www.lkb.fr/opticalimaging/) at École Normale Supérieure.
 Before that I graduated with a B.S. in Computer Science + Mathematics from WashU in 2023.
 
-My research interest lies in imaging inverse problems, particularly in signal processing techniques and generative models for image reconstrcution.
+My research interest lies in imaging inverse problems, particularly in signal processing techniques and generative models for image reconstruction.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
