@@ -28,7 +28,8 @@ latest_posts:
   # limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third year ECE PhD student at [UW-Madison](https://engineering.wisc.edu/departments/electrical-computer-engineering/) under my supervisor [Prof. Ulugbek S. Kamilov](https://ukmlv.github.io/) in the [Computational Imaging Group (CIG)](https://cig.ece.wisc.edu/).
+<!-- I am a third year ECE PhD student at [UW-Madison](https://engineering.wisc.edu/departments/electrical-computer-engineering/) under my supervisor [Prof. Ulugbek S. Kamilov](https://ukmlv.github.io/) in the [Computational Imaging Group (CIG)](https://cig.ece.wisc.edu/). -->
+I am a third year ECE PhD student at [UW-Madison](https://engineering.wisc.edu/departments/electrical-computer-engineering/) under my supervisor [Prof. Ulugbek S. Kamilov](https://ukmlv.github.io/) in the Computational Imaging Group (CIG).
 The first 2.5 years of my PhD we spent in the CSE department of [WashU](https://cse.washu.edu/index.html), also under Prof. Kamilov.
 I spent the summer of 2025 at [CCS3 (now CAI)](https://www.lanl.gov/engage/organizations/aldsct/computing-and-artificial-intelligence) at Los Alamos National Laboratory and the 2024 spring semester with the [Complex Media Group](https://www.lkb.fr/opticalimaging/) at École Normale Supérieure.
 Before that I graduated with a B.S. in Computer Science + Mathematics from WashU in 2023.
