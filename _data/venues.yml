@@ -7,3 +7,21 @@
 
 "Vision":
   color: "#009f36"
+
+"ICASSP":
+  color: "#00369f"
+
+"TCI":
+  color: "#ff3366"
+
+"ICML":
+  color: "#228B22"
+
+"NatureComm":
+  color: "#E57200"
+  
+"ReproSci":
+  color: "#5b2c6f"
+
+"arXiv":
+  color: "#B31B1B"
