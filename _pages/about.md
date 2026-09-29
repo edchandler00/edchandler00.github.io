@@ -27,9 +27,7 @@ latest_posts:
   # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   # limit: 3 # leave blank to include all the blog posts
 ---
-
-<!-- I am a third year ECE PhD student at [UW-Madison](https://engineering.wisc.edu/departments/electrical-computer-engineering/) under my supervisor [Prof. Ulugbek S. Kamilov](https://ukmlv.github.io/) in the [Computational Imaging Group (CIG)](https://cig.ece.wisc.edu/). -->
-I am a third year ECE PhD student at [UW-Madison](https://engineering.wisc.edu/departments/electrical-computer-engineering/) under my supervisor [Prof. Ulugbek S. Kamilov](https://ukmlv.github.io/) in the Computational Imaging Group (CIG).
+I am a fourth year ECE PhD student at [UW-Madison](https://engineering.wisc.edu/departments/electrical-computer-engineering/) under the supervision of [Prof. Ulugbek S. Kamilov](https://ukmlv.github.io/) in the [Computational Imaging Group (CIG)](https://cig.ece.wisc.edu/).
 The first 2.5 years of my PhD were spent in the CSE department of [WashU](https://cse.washu.edu/index.html), also under Prof. Kamilov.
 I spent the summers of 2025 and 2026 at [CAI (previously CCS)](https://www.lanl.gov/engage/organizations/aldsct/computing-and-artificial-intelligence) at Los Alamos National Laboratory and the 2024 spring semester with the [Complex Media Group](https://www.lkb.fr/opticalimaging/) at École Normale Supérieure.
 Before that I graduated with a B.S. in Computer Science + Mathematics from WashU in 2023.
@@ -38,8 +36,9 @@ My research interest lies in imaging inverse problems, particularly in signal pr
 
 Outside of research I like to spend my time outdoors trail running, mountain biking, and skiing.
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+---
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I will be graduating in December 2027 and am looking for industry positions in computational imaging, computer vision, and deep learning or post-docs in computational methods for scientific imaging.
+Please reach out at [epchandler@wisc.edu](mailto:epchandler@wisc.edu) if you are interested!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+---
