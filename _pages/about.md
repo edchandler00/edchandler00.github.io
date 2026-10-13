@@ -32,7 +32,7 @@ The first 2.5 years of my PhD were spent in the CSE department of [WashU](https:
 I spent the summers of 2025 and 2026 at [CAI (previously CCS)](https://www.lanl.gov/engage/organizations/aldsct/computing-and-artificial-intelligence) at Los Alamos National Laboratory and the 2024 spring semester with the [Complex Media Group](https://www.lkb.fr/opticalimaging/) at École Normale Supérieure.
 Before that I graduated with a B.S. in Computer Science + Mathematics from WashU in 2023.
 
-My research interest lies in imaging inverse problems, particularly in signal processing techniques and generative models for image reconstruction.
+My research interest lies in imaging inverse problems, particularly in efficient generative models for large-scale image reconstruction.
 
 Outside of research I like to spend my time outdoors trail running, mountain biking, and skiing.
 
