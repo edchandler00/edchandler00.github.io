@@ -38,7 +38,7 @@ Outside of research I like to spend my time outdoors trail running, mountain bik
 
 ---
 
-I will be graduating in December 2027 and am looking for industry positions in computational imaging, computer vision, and deep learning or post-docs in computational methods for scientific imaging.
+I will be graduating in December 2027 and will coming to the job market.
 Please reach out at [epchandler@wisc.edu](mailto:epchandler@wisc.edu) if you are interested!
 
 ---
