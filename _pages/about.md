@@ -38,7 +38,6 @@ Outside of research I like to spend my time outdoors trail running, mountain bik
 
 ---
 
-I expect to graduate in December 2027 and will be on the job market.
-Please reach out at [epchandler@wisc.edu](mailto:epchandler@wisc.edu) if you are interested!
+I expect to graduate in December 2027 and will be on the job market. Please reach out at [epchandler@wisc.edu](mailto:epchandler@wisc.edu) if you are interested!
 
 ---
